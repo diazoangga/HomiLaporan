@@ -1,3 +1,5 @@
+!pip install streamlit_chat
+
 import os
 import streamlit as st
 # from streamlit_extras.add_vertical_space import add_vertical_space
